@@ -1,10 +1,10 @@
 # 自动打铃系统	——by WhXcjm
 ## 1. 概述
-作用：
+### 作用：
  - 在网课期间起到重要作用（提醒老师开始上课:p）
  - 可自动校时（根据aliyun的ntp服务器进行校对）（须以管理员身份运行）
  - 通过自定义音频输入输出通道来实现功能
-## 注意：须配合[voicemeeter banana](https://vb-audio.com/Voicemeeter/banana.htm)使用
+### 注意：须配合[voicemeeter banana](https://vb-audio.com/Voicemeeter/banana.htm)使用
 ## 2. 使用方式（参考配置，建议先查教程自己学会）
 ### 2.1. 设置默认音频输出通道（或者在直播软件中设置）
 1. 系统默认音频输出
@@ -27,7 +27,7 @@
 6. `VoiceMeeter Output (B1)`, banana输出 到 直播软件音频输入
 7. `VoiceMeeter Aux Output (B2)`, banana输出 到 其他软件音频输入（系统默认输入）
 ![assets/其他软件音频输入.png](assets/其他软件音频输入.png)
-### 2.3. 麦克风快捷按键
+### 2.3. 配置麦克风快捷按键
 ![assets/麦克风控制.png](assets/麦克风控制.png)
 1. 非锁定式-`F4`（按下说话，抬起停止）
 
